@@ -1,0 +1,8 @@
+baseURL = 'https://aprop-os.org/'
+title = 'Aprop-OS'
+theme = 'hugo-logo-only'
+#googleAnalytics = 'G-PV2J0QKPET'
+
+[params]
+logo = 'logo.png'
+favicon = 'logo.png'
